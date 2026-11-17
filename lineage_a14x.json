@@ -1,14 +1,14 @@
 [
   {
-    "datetime": 1794727052,
+    "datetime": 1794907495,
     "files": [
       {
-        "filename": "lineage-24.0-20261115-UNOFFICIAL-a14x.zip",
+        "filename": "lineage-24.0-20261117-UNOFFICIAL-a14x.zip",
         "os_patch_level": "2026-11-01",
         "os_sdk_level": 37,
-        "sha256": "026c162dfe0162d558460ce6e4cdcce104608c224f968efe265a872bba88f62d",
-        "size": 1130804326,
-        "url": "https://github.com/devhunter1/LineageOS_OTA/releases/download/lineage-24.0/lineage-24.0-20261115-UNOFFICIAL-a14x.zip"
+        "sha256": "7f87b0f2ee17db60a1c7612d4f2fbaea88c261fa789ee60cb3c1e88b24e1d92c",
+        "size": 1132392134,
+        "url": "https://github.com/devhunter1/LineageOS_OTA/releases/download/new/lineage-24.0-20261117-UNOFFICIAL-a14x.zip"
       }
     ],
     "type": "unofficial",
